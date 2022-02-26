@@ -1,7 +1,7 @@
 package main
 
 import (
-	"goland-postgre-cdc/consumer"
+	"golang-postgre-cdc/consumer"
 )
 
 func main() {

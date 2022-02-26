@@ -1,3 +1,3 @@
-module goland-postgre-cdc
+module golang-postgre-cdc
 
 go 1.17
