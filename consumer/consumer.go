@@ -1,5 +1,5 @@
 package consumer
 
 func PostgresConsumer() {
-	println("test")
+	println("postgres consumer worked")
 }
